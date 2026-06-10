@@ -1,6 +1,6 @@
-let me start by thanking those of you who found this by whatever means. 
+Let me start by thanking those of you who found this by whatever means. 
 
-this game is still a Work In Progress. it is playable although there are some bugs im still wprking through...  thank you for ypur support along the way. 
+this game is still a Work In Progress. it is playable although there are some bugs I am still working through...  thank you for ypur support along the way. 
 
 
 
