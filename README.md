@@ -1,3 +1,9 @@
+let me start by thanking those of you who found this by whatever means. 
+
+this game is still a Work In Progress. it is playable although there are some bugs im still wprking through...  thank you for ypur support along the way. 
+
+
+
 This is the site to download my Atari 2600 game "P.K.E."
 
 Included in this repository are the following files:
