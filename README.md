@@ -11,7 +11,9 @@ https://forums.atariage.com/topic/390745-wip-pke-a-new-ghostbusters-inspired-260
 
 Included in this repository are the following files:
 
-P.K.E..bin = The file to download and use with your emulator or flash cart
+P.K.E..bin = The file to download and use with your emulator or flash cart (NTSC)
+
+p.k.e._PAL60.bin = The file to download and use with your emulator or flash cart (PAL60)
 
 PKE Manual.pdf = An Atari-style manual to explain gameplay
 
